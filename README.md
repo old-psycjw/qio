@@ -2,11 +2,13 @@
 
 An updated version of the QIO Haskell Monad, written by Dr. Alexander S Green, and Prof. Thorsten Altenkirch, found at https://github.com/alexandersgreen/qio-haskell and http://hackage.haskell.org/package/QIO. 
 
-This project is being created for my Dissertation, and has aims to implement the following:
+This project was created for my Dissertation, and implements the following:
 - Update current QIO project
-- Implement Grover's Algorithm
-- Look at improving the current implementation of Shor's Algorithm
-- Implement a Quantum Circuit Builder/Interpreter
+- Grover's Algorithm
+- Shor's Algorithm
+- Quantum Circuit Builder/Interpreter
+
+The project won the Runner-Up Individal Prize award, with an overall grade of 87%, at the University of Nottingham, 2019.
 
 ## Grover's algorithm
 There are 2 differing implementations of Grover's algorithm, namely Grover.hs and Grover2.hs.
